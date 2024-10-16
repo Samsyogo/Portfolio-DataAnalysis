@@ -4,10 +4,14 @@ Hi, I'm Oyogo, a data analyst and front-end developer with two years of experien
 
 ## Data Analysis
 Programming languages: Python -libraries (Pandas, NumPy, Matplotlib ), and SQL(MySQL, PostgreSQL)
+
 Tools: Jupyter Notebooks, Looker Studio, Tableau, Power BI, SPSS, STATA, and MS Excel 
+
 Skills: Data exploratory, cleaning data, statistics, Data visualization and correlation matrices
 ## Frontend Developer
 Programming languages: HTML, CSS, JavaScript
+
 Frameworks: React, Bootstrap, and Spring boot
+
 Responsive Web Design, web hosting
 
