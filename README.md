@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-Hi, I'm Oyogo, a data analyst and front-end developer with two years of experience in website development and data analysis. I am excellent at turning numbers into insights to determine the best direction for the business while creating attractive and practical web solutions. As a Data Analyst by heart and profession, I extract information, value, and understanding from data and create leading visuals for decision-making.
+Hi, I'm Oyogo, a data analyst and front-end developer with two years of experience in website development and data analysis. I am excellent at turning numbers into insights to determine the best direction for the business while creating attractive and practical web solutions. As a Data Analyst by heart and profession, I extract information, value, and understanding from data and develop leading visuals for decision-making.
 
 ## Data Analysis
 Programming languages: Python -libraries (Pandas, NumPy, Matplotlib ), and SQL(MySQL, PostgreSQL)
@@ -17,15 +17,15 @@ Responsive Web Design, web hosting
 
 My CV in [pdf](https://github.com/Samsyogo/Portfolio-DataAnalysis/blob/main/MATONGO_SAMSON-CV.pdf)
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics.
+This repository showcases skills, shares projects, and tracks my progress in Data Analytics.
 ## Table of Contents
 - [About](https://github.com/Samsyogo/Portfolio-DataAnalysis/edit/main/README.md#about-me)
 - [Portfolio Projects]()
-- - Python
+  - Python
     - [Project1]()
-    - - [Project2]()
-      - - [Project3]()
-        - - [Project4]()
+      - [Project2]()
+        - [Project3]()
+          - [Project4]()
       
  
   - Tableau---> [go to Tableau..]()
@@ -38,19 +38,12 @@ This is a repository to showcase skills, share projects and track my progress in
   - SPSS
   - STATA
       
-    
-  
-
-
-- [Education]()  
-- [Certificates]()
-- [Contact]()
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases
+In this section, I will list data analytics projects briefly describing the technology stack used to solve cases
 
 ## Education
 Kisii University : 
- - Bachelors Degree in Computer Science,
+ - Bachelor's Degree in Computer Science,
  - Sep 2016 - Dec 2020
 
 ## Certificates
@@ -59,5 +52,5 @@ Kisii University :
 - [Python for Data Science]() (Feb 2021) (Coursera)
 
 ## Contacts
-- LinkedIn: [Samson Oyogo](https://www.linkedin.com/in/samson-oyogo/)
+- LinkedIn [Samson Oyogo](https://www.linkedin.com/in/samson-oyogo/)
 - Email: oyogosamsongit@gmail.com
