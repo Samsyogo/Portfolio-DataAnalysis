@@ -22,7 +22,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
 - [About](https://github.com/Samsyogo/Portfolio-DataAnalysis/edit/main/README.md#about-me)
 - [Portfolio Projects]()
   - Python
-    - [Project1]()
+    - [Titanic - Machine Learning from Disaster](https://github.com/Samsyogo/Data-Project1/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/titanic.ipynb)
       - [Project2]()
         - [Project3]()
           - [Project4]()
