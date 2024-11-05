@@ -24,7 +24,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   - Python
     - [Titanic - Machine Learning from Disaster](https://github.com/Samsyogo/Data-Project1/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/titanic.ipynb)
     - [Predicting income level based on individual's personal information](https://github.com/Samsyogo/predicting-income-level-based-on-the-individual-s-personal-information)
-    - [Project3]()
+    - [Ecommerce purchases analysis project to monitor customers behavior](https://github.com/Samsyogo/Ecommerce-purchases-analysis-project-to-monitor-customers--behavior/blob/main/Ecommerce.ipynb)
     - [Project4]()
       
  
