@@ -28,7 +28,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
     - [Project4]()
       
  
-  - Tableau---> [go to Tableau..]()
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/samson.matongo)
   - Power BI[]()
   - 
   - Looker studio []()
