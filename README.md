@@ -35,8 +35,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   
   - SQL[]()
   - Excel / Google Sheets
-  - SPSS
-  - STATA
+  
       
 ## Portfolio Projects
 In this section, I will list data analytics projects briefly describing the technology stack used to solve cases
