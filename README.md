@@ -1,17 +1,17 @@
 # Portfolio
 # About me
-Hi, I'm Oyogo, a data analyst and front-end developer with two years of experience in website development and data analysis. I am excellent at turning numbers into insights to determine the best direction for the business while creating attractive and practical web solutions. As a Data Analyst by heart and profession, I extract information, value, and understanding from data and develop leading visuals for decision-making.
+Hi, I'm Oyogo, a data analyst and front-end developer with two years of experience in website development and data analysis. I am excellent at turning numbers into insights to determine the best direction for the business while creating attractive and practical web solutions. As a Data Analyst at heart and profession, I extract information, value, and understanding from data and develop leading visuals for decision-making.
 
 ## Data Analysis
 Programming languages: Python -libraries (Pandas, NumPy, Matplotlib ), and SQL(MySQL, PostgreSQL)
 
 Tools: Jupyter Notebooks, Looker Studio, Tableau, Power BI, SPSS, STATA, and MS Excel 
 
-Skills: Data exploratory, cleaning data, statistics, Data visualization and correlation matrices
+Skills: Data exploration, cleaning data, statistics, Data visualization, and correlation matrices
 ## Frontend Developer
 Programming languages: HTML, CSS, JavaScript
 
-Frameworks: React, Bootstrap, and Spring boot
+Frameworks: React, Bootstrap, and Spring Boot
 
 Responsive Web Design, web hosting
 
@@ -24,21 +24,21 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
   - Python
     - [Titanic - Machine Learning from Disaster](https://github.com/Samsyogo/Data-Project1/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/titanic.ipynb)
     - [Predicting income level based on individual's personal information](https://github.com/Samsyogo/predicting-income-level-based-on-the-individual-s-personal-information)
-    - [Ecommerce purchases analysis project to monitor customers behavior](https://github.com/Samsyogo/Ecommerce-purchases-analysis-project-to-monitor-customers--behavior/blob/main/Ecommerce.ipynb)
+    - [Ecommerce purchases analysis project to monitor customers' behavior](https://github.com/Samsyogo/Ecommerce-purchases-analysis-project-to-monitor-customers--behavior/blob/main/Ecommerce.ipynb)
     - [Project4]()
       
  
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/samson.matongo)
-  - Power BI[]()
+  - Power BI---> [go to Power BI..]()
   - 
-  - Looker studio []()
+  - Looker studio---> [go to Looker studio..]()
   
-  - SQL[]()
+  - SQL[go to SQL]()
   - Excel / Google Sheets
   
       
 ## Portfolio Projects
-In this section, I will list data analytics projects briefly describing the technology stack used to solve cases
+In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases
 
 ### Titanic Machine learning from disaster
 **Code:** [`titanic.ipynb`](https://github.com/Samsyogo/Data-Project1/blob/main/Titanic%20-%20Machine%20Learning%20from%20Disaster/titanic.ipynb)
@@ -53,17 +53,17 @@ In this section, I will list data analytics projects briefly describing the tech
 
  
 
-### Predicting income level based on individual's personal information
-**Goal:** This machine learning project aims to predict whether a person makes over 50K a year or not given their demographic variation.
+### Predicting income level based on an individual's personal information
+**Goal:** This machine learning project aims to predict whether a person makes over 50K a year or not, given their demographic variation.
 
 **Code:** [`adult-income.ipynb`](https://github.com/Samsyogo/predicting-income-level-based-on-the-individual-s-personal-information)
 
-**Description:** This machine learning project aims to predict whether a person makes over 50K a year or not given their demographic variation. Several classification techniques are explored to achieve this, and the random forest model yields the best prediction result.
+**Description:** This machine learning project aims to predict whether a person makes over 50K a year, given their demographic variation. Several classification techniques are explored to achieve this, and the random forest model yields the best prediction result.
 **Skills:** Data cleaning, data analysis, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Matplotlib.
 
-**Results:** There is a positive correlation between working hours and income. There is a strong relationship between education level and income. 
+**Results:** There is a positive correlation between working hours and income, and there is a strong relationship between education level and income. 
      Age and work experience are important factors affecting income level.
 In the light of this data:
  -It can be used in career counseling services for Income forecasting.
@@ -73,7 +73,7 @@ Proposed ML Models:
  -XGBoost.
  -Gradient Boosting Classifier.
  -Random Forest Classifier.
-These models are appropriate for this problem with their ability to handle categorical and numerical variables together,
+These models are appropriate for this problem with their ability to handle categorical and numerical variables together.
 to capture non-linear relationships and to show high performance.
 
 ## Ecommerce purchases analysis project to monitor customers' behavior
