@@ -29,7 +29,7 @@ This repository showcases skills, shares projects, and tracks my progress in Dat
       
  
   - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/samson.matongo)
-  - Power BI---> [go to Power BI..]()
+  - Power BI---> [go to Power BI..](https://github.com/Samsyogo/PowerBI-Dashboard)
   - 
   - Looker studio---> [go to Looker studio..]()
   
